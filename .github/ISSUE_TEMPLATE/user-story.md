@@ -1,4 +1,13 @@
- **As a** [role]  
+---
+name: User Story
+about: This template is for creating user strories.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
    
